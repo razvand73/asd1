@@ -1,0 +1,9 @@
+11
+Gigel
+Televizor,1,Boxa,2
+12
+Marcel
+Scaun,5
+13
+Viorel
+Masina de spalat,3
